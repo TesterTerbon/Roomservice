@@ -1,2 +1,6 @@
-
-Roomservice.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="TesterTerbon/android_device_samsung_msm7x27a-common" path="device/samsung/msm72x7a-common" remote="github" />
+  <project name="TesterTerbon/android_device_samsung_msm7x27a-common" path="device/samsung/trebon" remote="github" />
+  <project name="TesterTerbon/android_kernel_samsung_msm7x27a" path="kernel/samsung/trebon" remote="github" revision="jellybean" />
+</manifest>
